@@ -1,4 +1,4 @@
-# datascience
+# Test Tictactrip
 
 Ce travail s’est décomposé en quatre grande partie. Dans un premier temps, j’ai fait une analyse globale du dataset en étudiant notamment la répartition du prix et de la durée des différents trajets du jeu de données. Ensuite, j’ai étudié, comme demandé, la différence de prix moyen selon le mode de transport et la durée du trajet. Dans un troisième temps, j’ai voulu approfondir l’exploration des données en représentant notamment le prix en fonction de la compagnie de transport, des gadgets mis à disposition ou encore de l’heure de départ. Enfin, dans un dernier temps, j’ai essayé d’appliquer au jeu de données plusieurs algorithmes de prédiction pour prédire le prix des billets en fonction de différentes caractéristiques. 
 Avant de renter plus en détail dans mes résultats, je voulais vous remercier de la mission que vous m’avez donnée car j’ai pris beaucoup de plaisir à jouer avec ce jeu de données et d’en extraire de l’information. J’espère avoir l’occasion d’échanger avec vous de vive voix pour vous témoigner ma motivation et ma soif d’apprendre. 
